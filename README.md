@@ -1,4 +1,4 @@
-# Destroying-Stones-Unity
+# Destroying_Stones_Unity
 
 ## ABOUT
 Destroying Stones is a game where you just need to destroy the maximum stones that appears on your screen.
